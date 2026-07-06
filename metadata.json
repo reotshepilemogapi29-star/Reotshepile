@@ -1,0 +1,6 @@
+{
+  "name": "Data Rewards",
+  "description": "Earn free mobile data (Megabytes) by watching videos and tracking your rewards on a stylized interactive dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
